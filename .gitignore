@@ -1,7 +1,9 @@
 #################
 ## Eclipse
 #################
-
+QuickContactBadge/
+ch*/
+src/
 *.pydevproject
 .project
 .metadata
